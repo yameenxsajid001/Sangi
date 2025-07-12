@@ -1,6 +1,6 @@
-# Yameenk99 Bot v3
+# Yameen Bot v3
 
-Welcome to **Yameenk99 Bot v3**! This is a powerful and customizable bot built for automating various tasks on Facebook Messenger.
+Welcome to **Yameen Bot v3**! This is a powerful and customizable bot built for automating various tasks on Facebook Messenger.
 
 ## Table of Contents
 
@@ -29,7 +29,7 @@ To install the bot, follow these steps:
 
 2. **Navigate to the project directory**:
     ```bash
-    cd Yameenk99-bot-v3
+    cd Yameen-bot-v3
     ```
 
 3. **Install the dependencies**:
@@ -49,7 +49,7 @@ This project supports two FCA (Facebook Chat API) options:
 1. **fca-yameen**
 2. **yameen-fca** (Recommended)
 
-You can choose to use either of these options, but it's recommended to use **Yameenk99-fca** for the best performance and stability.
+You can choose to use either of these options, but it's recommended to use **Yameen-fca** for the best performance and stability.
 
 ## Usage
 
